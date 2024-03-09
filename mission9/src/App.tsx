@@ -13,7 +13,9 @@ function Header() {
   return (
     <div>
       <h1>March Madness</h1>
-      <h2>Here are all the NCAA Teams to be considered for the 2024 March </h2>
+      <h2>
+        Here are all the NCAA Teams to be considered for 2024 March Madness
+      </h2>
     </div>
   );
 }
